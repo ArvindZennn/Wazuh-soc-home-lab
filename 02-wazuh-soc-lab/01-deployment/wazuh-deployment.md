@@ -99,3 +99,23 @@ The next phase involves installing and configuring the Wazuh Agent on the Ubuntu
 * Network configuration
 * Security monitoring infrastructure
 * Lab environment design
+
+## Evidence Screenshots
+
+### 1. VirtualBox Wazuh VM
+![Wazuh VM in VirtualBox](screenshots/01-virtualbox-wazuh-vm.png)
+
+### 2. Wazuh VM Terminal
+![Wazuh VM Terminal](screenshots/02-vm-terminal-evidence.png)
+
+### 3. Wazuh Login Screen
+![Wazuh Login Screen](screenshots/03-wazuh-login.png)
+
+### 4. Wazuh Dashboard
+![Wazuh Dashboard](screenshots/04-wazuh-dashboard.png)
+
+### 5. Wazuh VM Terminal Evidence
+![Wazuh VM Terminal Evidence](screenshots/05-wazuh-vm-terminal-evidence-2.png)
+
+### 6. Additional VM Terminal Evidence
+![Wazuh VM Terminal Evidence](screenshots/06-wazuh-vm-terminal-evidence-3.png)
