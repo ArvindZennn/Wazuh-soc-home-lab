@@ -19,6 +19,8 @@ Configure the Wazuh Agent on the Ubuntu endpoint and establish communication wit
 
 ## Agent Installation
 
+![Wazuh Installation](screenshots/01-wazuh-installation.png)
+
 The Wazuh Agent was installed on the Ubuntu endpoint using the appropriate Wazuh installation procedure.
 
 The agent configuration was then updated with the Wazuh Manager details required for communication.
@@ -29,7 +31,13 @@ The Wazuh Agent configuration was reviewed to ensure that the endpoint was confi
 
 ## Agent Service
 
+![Wazuh VM Running](screenshots/02-wazuh-vm-running.png)
+
 The Wazuh Agent service was started and checked to confirm that it was running correctly.
+
+
+![Wazuh Login](screenshots/03-wazuh-login-screen.png)
+
 
 Example verification:
 
@@ -45,6 +53,9 @@ Result
 Status: Successful
 
 The Ubuntu endpoint was successfully configured with the Wazuh Agent and prepared for security-event monitoring.
+
+
+![Wazuh Dashboard](screenshots/04-wazuh-dashboard.png)
 
 Next Step
 
