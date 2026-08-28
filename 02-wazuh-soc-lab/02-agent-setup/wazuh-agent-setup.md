@@ -68,3 +68,20 @@ SIEM endpoint onboarding
 Service management
 Security telemetry collection
 Endpoint monitoring
+
+## Evidence Screenshots
+
+### 1. Agent Package Selection
+![Wazuh Agent Package Selection](screenshots/01-agent-package-selection.png)
+
+### 2. Agent Server Configuration
+![Wazuh Agent Server Configuration](screenshots/02-agent-server-configuration.png)
+
+### 3. Agent Installation Command
+![Wazuh Agent Installation Command](screenshots/03-agent-install-command.png)
+
+### 4. Agent Service Running
+![Wazuh Agent Service Running](screenshots/04-agent-service-running.png)
+
+### 5. Agent Active in Wazuh
+![Wazuh Agent Active](screenshots/05-agent-active-in-wazuh.png)
