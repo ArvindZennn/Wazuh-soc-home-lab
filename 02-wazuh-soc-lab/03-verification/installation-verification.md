@@ -56,3 +56,16 @@ The Wazuh environment was prepared for security-event generation, monitoring, an
 Next Stage
 
 The next stage of the lab is a controlled SSH attack simulation designed to generate authentication-related security events for detection and investigation.
+## Evidence Screenshots
+
+### 1. Agent Active in Wazuh
+![Agent Active in Wazuh](screenshots/01-agent-active-in-wazuh.png)
+
+### 2. Ubuntu Network Configuration
+![Ubuntu Network Configuration](screenshots/02-ubuntu-network-configuration.png)
+
+### 3. Manager Connectivity
+![Manager Connectivity](screenshots/03-manager-connectivity-ping.png)
+
+### 4. Network Command Troubleshooting
+![Network Command Troubleshooting](screenshots/04-network-command-troubleshooting.png)
