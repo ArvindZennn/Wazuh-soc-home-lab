@@ -1,20 +1,19 @@
 # Wazuh SOC Evidence Index
 
-Generated evidence inventory.
+## 01 — Deployment
+Wazuh/VirtualBox environment, Wazuh login/dashboard, and Windows Server/AD environment evidence.
 
-Total imported evidence images: **60**
+## 02 — Agent Setup
+Agent management, package selection, manager configuration, install command, and installation terminal.
 
-## Evidence Locations
+## 03 — Verification
+Agent active status, Ubuntu networking, manager connectivity, and network troubleshooting.
 
-| Stage | Evidence |
-|---|---|
-| 01 Deployment | `01-deployment/screenshots/` |
-| 02 Agent Setup | `02-agent-setup/screenshots/` |
-| 03 Verification | `03-verification/screenshots/` |
-| 04 Attack Simulation | `04-attack-simulation/01-ssh-brute-force/screenshots/` |
-| 05 Detection & Analysis | `05-detection-analysis/screenshots/` |
-| 06 Incident Response | `06-incident-response/screenshots/` |
+## 04 — Attack Simulation
+SSH brute-force execution evidence.
 
-## Evidence Handling
+## 05 — Detection & Analysis
+SSH authentication events, brute-force alerts, rule/search filtering, rule 5712 details, failed/accepted authentication events, and investigation views.
 
-Original evidence filenames were preserved during automated import to prevent accidental loss or incorrect renaming.
+## 06 — Incident Response
+No dedicated response screenshot was present in the supplied evidence. No image was falsely labeled as response evidence.
